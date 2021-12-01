@@ -1,0 +1,51 @@
+.red{
+    color: red;
+}
+
+body{
+    background-color: greenyellow;
+}
+
+h1{
+    background-color: red;
+    text-align: center;
+    color: yellowgreen;
+    border-radius: 50px;
+}
+
+h6{
+    color: red;
+}
+
+.move{
+    margin: 30%;
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: blue;
+}
+
+a{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
